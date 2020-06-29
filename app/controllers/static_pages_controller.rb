@@ -11,6 +11,5 @@ class StaticPagesController < ApplicationController
   def contact
   end
   
-  def faggots
-  end 
+
 end
